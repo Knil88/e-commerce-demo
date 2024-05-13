@@ -1,5 +1,5 @@
 import React from 'react'
-import { Product } from '../../../../lib/models/product-models'
+import { Product } from '../../../../lib/models/ProductModel'
 import Link from 'next/link'
 import Image from 'next/image'
 
